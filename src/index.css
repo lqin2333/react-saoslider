@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.rev-btn
+{
+  z-index: 5; 
+  white-space: nowrap; 
+  font-size: 11px; 
+  line-height: 20px; 
+  font-weight: 300; 
+  color: rgba(255,255,255,1); 
+  letter-spacing: px;
+  font-family:Nunito Sans;
+  text-transform:uppercase;
+  background-color:rgba(0,0,0,0.75);
+  border-color:rgba(0,0,0,1);
+  border-radius:30px 30px 30px 30px;
+  outline:none;
+  box-shadow:none;
+  box-sizing:border-box;
+  -moz-box-sizing:border-box;
+  -webkit-box-sizing:border-box;
+  cursor:pointer;
+}
