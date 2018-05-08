@@ -3,6 +3,9 @@ import Slide from './Slide';
 import axios from 'axios';
 import * as SliderAPI from './SliderAPI';
 
+//--- css ---
+import './css/sao-slider.css';
+
 class Slider extends Component {
 
   constructor(...args) {
